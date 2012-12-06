@@ -12,9 +12,6 @@
 
 // _kbhit()ŠÖ”—p
 // http://msdn.microsoft.com/ja-jp/library/58w7c94c(v=vs.80).aspx
-// if( kbhit() ){ char buf = getch(); if(buf == ' '){break;}} }
-// fflush(stdin)‚Å‚Í•‚ª‚½‚½‚È‚¢‚Ì‚Ågetch()‚ğwhile‚³‚¹‚é‚±‚Æ‚Å‰ğŒˆ
-// rewind(stdin)‚Å‚Í•‚ª‚½‚½‚È‚¢‚Ì‚Ågetch()‚ğwhile‚³‚¹‚é‚±‚Æ‚Å‰ğŒˆ
 #include <conio.h>
 
 class AA
